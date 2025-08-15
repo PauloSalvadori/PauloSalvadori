@@ -1,6 +1,6 @@
 ## Bem vindo! Me chamo Paulo.
 
-- 🚀 Estudando Engenharia de Software - Unicesumar
+- 🚀 Estudante de Ciência da Computação - UTFPR
 
 ##
 
